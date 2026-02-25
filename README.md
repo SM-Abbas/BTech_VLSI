@@ -17,14 +17,7 @@
  - Flip Flops
     - [D Flip Flop](Codes/FlipFlops/DFF/DFF.v)
     - [T Flip Flop](Codes/FlipFlops/TFF/TFF.v)
- - Counters
-    - Async
-        - [Async Up Counter](Codes/Counters/Async/UpASync.v)
-        - [Async Down Counter](Codes/Counters/Async/DownASync.v)
-    - Sync
-        - [Sync Up Counter](Codes/Counters/Sync/Up/UpSync.v)
-        - [Sync Down Counter](Codes/Counters/Sync/Down/DownSync.v)
-        - [Sync Up-Down Counter](Codes/Counters/Sync/Combined/UpDownSync.v)
+ 
  - Register
     - [Universal Serial Register](Codes/Register/USR.v)
     - [SISO Register](Codes/Register/SR_SISO.v)
